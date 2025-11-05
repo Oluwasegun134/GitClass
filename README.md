@@ -7,3 +7,4 @@ Here's our todo:
 - [ ] Fix this tpyo
 - [] I just attempted a revert!
 I have decided not to save on VScode to test if I can save from terminal.
+Trying to make a new change and observe
